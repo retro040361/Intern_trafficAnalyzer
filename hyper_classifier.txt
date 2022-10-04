@@ -1,0 +1,9 @@
+/home/retr0ouo/0718test/data/patternData_100/
+/home/retr0ouo/0718test/tmp/
+model.pth
+0.85
+0.15
+16
+1
+3e-06
+0.0001
